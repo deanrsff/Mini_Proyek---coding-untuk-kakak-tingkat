@@ -18,7 +18,7 @@
 - Fitur utama:
 - Input data yaitu berupa nama tugas, tanggal hari ini, tanggal deadline, bulan hari ini, bulan deadline.
 - Menghitung sisa hari menuju deadline tugas
-- Output Memberikan hasil perhitungan.
+- Output Menghasilkan hitungan sisa hari.
 
 - Konsep yang digunakan:
 - Input/output
