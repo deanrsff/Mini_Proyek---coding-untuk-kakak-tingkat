@@ -1,17 +1,17 @@
 # Mini_Proyek - coding untuk kakak tingkat
 
 ## 👤 Identitas Mahasiswa
-Nama: Dea Nursifa
-NIM: 2402165
-Kelas: 2A PSTI
+- Nama: Dea Nursifa
+- NIM: 2402165
+- Kelas: 2A PSTI
 
 ## 🎓 Identitas Kakak Tingkat
-Nama: Muhammad Sulthan Nabil Tursilo
-Angkatan: 2022
-Program Studi: Pendidikan Sistem Dan Teknologi Informasi
+- Nama: Muhammad Sulthan Nabil Tursilo
+- Angkatan: 2022
+- Program Studi: Pendidikan Sistem Dan Teknologi Informasi
 
 ## 💡 Permintaan program
-Kakak ingin dibuatkan penghitungan deadline tugas. Jadi nanti user masukin tanggal hari ini, tanggal deadline, bulan hari ini, bulan deadline, output programnya bakal menghitung sisa harinya berapa. Terus kalo deadline ternyata tinggal 1-3 hari, programnya ngasih reminder biar ga lupa.
+> Kakak ingin dibuatkan penghitungan deadline tugas. Jadi nanti user masukin tanggal hari ini, tanggal deadline, bulan hari ini, bulan deadline, output programnya bakal menghitung sisa harinya berapa. Terus kalo deadline ternyata tinggal 1-3 hari, programnya ngasih reminder biar ga lupa.
 
 ## 🧠 Penjelasan Program
 - Bahasa pemograman yang digunakan: C
