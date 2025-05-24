@@ -14,11 +14,11 @@ Program Studi: Pendidikan Sistem Dan Teknologi Informasi
 Kakak ingin dibuatkan penghitungan deadline tugas. Jadi nanti user masukin tanggal hari ini, tanggal deadline, bulan hari ini, bulan deadline, output programnya bakal menghitung sisa harinya berapa. Terus kalo deadline ternyata tinggal 1-3 hari, programnya ngasih reminder biar ga lupa.
 
 ## 🧠 Penjelasan Program
-Bahasa pemograman yang digunakan: C
-Fitur utama:
-Input data yaitu berupa nama tugas, tanggal hari ini, tanggal deadline, bulan hari ini, bulan deadline.
-Menghitung sisa hari menuju deadline tugas
-Output Memberikan hasil perhitungan.
+- Bahasa pemograman yang digunakan: C
+- Fitur utama:
+- Input data yaitu berupa nama tugas, tanggal hari ini, tanggal deadline, bulan hari ini, bulan deadline.
+- Menghitung sisa hari menuju deadline tugas
+- Output Memberikan hasil perhitungan.
 
 - Konsep yang digunakan:
 - Input/output
